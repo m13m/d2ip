@@ -6,7 +6,7 @@ A tool to get the ip address of top-level domain name.
 
 ## Synopsis
 
-./d2ip "example.com"
+```./d2ip example.com```
 
 > 192.168.0.1
 
