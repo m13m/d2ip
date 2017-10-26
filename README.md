@@ -10,14 +10,14 @@ A tool to get the ip address of top-level domain name.
 
 > 192.168.0.1
 
-## Feautres
+## Features
 -----------
 1. Top-level domains(.com, .net, .org etc..) to ip address.
 
 
 
 
-## Authour
+## Author
 ----------
 Mohd Maqbool Alam (alam.mohdmaqbool@gmail.com)
 
